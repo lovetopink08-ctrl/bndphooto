@@ -1,0 +1,16 @@
+{
+  "name": "보넥도 아카이브",
+  "short_name": "보넥도",
+  "description": "BOYNEXTDOOR 사진과 영상을 날짜·멤버 조합·착장별로 모아 봅니다.",
+  "lang": "ko",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f2f5fa",
+  "theme_color": "#101a33",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
